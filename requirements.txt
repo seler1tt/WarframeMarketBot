@@ -1,0 +1,7 @@
+# Python 3.11
+aiogram==2.25.2
+aiohttp==3.8.6
+APScheduler==3.10.4
+colorama==0.4.6
+colorlog==6.7.0
+pytz==2023.3

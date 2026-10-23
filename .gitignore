@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Виртуальное окружение
+.venv/
+venv/
+
+# Токен бота и ID админов (пример настроек - settings.example.ini)
+settings.ini
+
+# База данных и логи бота (data/config.py - это код, его не игнорируем)
+data/*.db
+data/*.db-journal
+data/*.log
+
+# IDE и система
+.idea/
+.vscode/
+Thumbs.db
+desktop.ini
